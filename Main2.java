@@ -14,6 +14,7 @@ public class Main2 {
         myFunction();
         myFunction();
         myFunction();
+        myFunction();
     } // end main
 
 
