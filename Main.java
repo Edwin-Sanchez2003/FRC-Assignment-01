@@ -14,12 +14,12 @@ class Main {
   
   // main function - where our program starts
   public static void main(String[] args) {
-    helloWorld(); // call helloWorld() function
+    helloRobotics(); // call helloWorld() function
   } // end main function
 
 
   // Prints 'Hello World!' to the console
-  public static void helloWorld() {
-    System.out.println("Hello World!");
+  public static void helloRobotics() {
+    System.out.println("Hello Robotics!");
   }; // end helloWorld
 } // end Main class
